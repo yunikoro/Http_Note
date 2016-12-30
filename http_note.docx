@@ -1,0 +1,13 @@
+I. Basic aspects of HTTP
+A. HTTP is simple
+B. HTTP is extensible
+C. HTTP is stateless, but not sessionless
+D. HTTP and connections
+II. What can be controlled by HTTP
+A. Cache
+B. Relaxing the origin constraint
+C. Authentication
+D. Proxy and tunneling
+E. Sessions
+III. HTTP flow
+IV. HTTP Messages
